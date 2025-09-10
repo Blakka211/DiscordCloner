@@ -1,0 +1,2 @@
+# DiscordCloner
+Discord server cloner
